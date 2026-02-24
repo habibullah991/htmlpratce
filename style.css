@@ -1,0 +1,17 @@
+
+h2{
+   color: orange; 
+   text-align: center;
+}
+p{
+    color: white;
+    background-color: black;
+}
+button{
+    color:wheat;
+    background: blue;
+}
+table{
+    color: rgb(47, 50, 194);
+text-align: right;
+}
