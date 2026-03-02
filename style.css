@@ -15,3 +15,6 @@ table{
     color: rgb(47, 194, 133);
 text-align: right;
 }
+#myid p{
+    color: blue;
+}
